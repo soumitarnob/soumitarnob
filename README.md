@@ -17,7 +17,7 @@
 | Category | Tools |
 |-----------|-------|
 | 💻 Programming | Python 🐍 • Java ☕ • C 🔣 |
-| 🤖 AI/ML | NumPy • Pandas • Scikit-learn • TensorFlow (Learning) |
+| 🤖 AI/ML | NumPy • Pandas • Scikit-learn • TensorFlow (Learning) | Gen Ai | Ai Automation
 | 🎨 Creative | Adobe Premiere Pro 🎬 |
 | 🛠️ Other | Git • GitHub • VS Code • Jupyter Notebook |
 
